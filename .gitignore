@@ -1,0 +1,11 @@
+Thumbs.db
+
+# test data file 
+test/*
+!test/test.tif
+
+
+# PyCharm project settings
+.idea/
+venv*/ # environments
+venv/
